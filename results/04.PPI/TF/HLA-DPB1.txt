@@ -1,0 +1,8 @@
+##**Please cite: Zhou KR, Liu S, Sun WJ, Zheng LL, Zhou H, Yang JH, Qu LH. ChIPBase v2.0: decoding transcriptional regulatory networks of non-coding RNAs and protein-coding genes from ChIP-seq data. Nucleic Acids Res. 2017 Jan 04;45(D1):D43-D50. Epub 2016 Oct 23
+##**Please cite: Yang JH, Li JH, Jiang S, Zhou H, Qu LH. ChIPBase: a database for decoding the transcriptional regulation of long non-coding RNA and microRNA genes from ChIP-Seq data. Nucleic Acids Res. 2013 Jan;41(Database issue):D177-87.
+
+##ChIPBase project, hg38, the statistics of transcription factors that bound around (ENSG00000226826) gene
+##Regulatory domain is [-1kb, 1kb] (motif: Y)
+##The number column below is corresponding to the motif status
+
+Transcription factor	Synonyms	Official Full Name	Number of samples found (upstream)	Number of samples found (downstream)	Number of binding sites contain motif (upstream)	Number of binding sites contain motif (downstream)

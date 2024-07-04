@@ -1,0 +1,70 @@
+##**Please cite: Zhou KR, Liu S, Sun WJ, Zheng LL, Zhou H, Yang JH, Qu LH. ChIPBase v2.0: decoding transcriptional regulatory networks of non-coding RNAs and protein-coding genes from ChIP-seq data. Nucleic Acids Res. 2017 Jan 04;45(D1):D43-D50. Epub 2016 Oct 23
+##**Please cite: Yang JH, Li JH, Jiang S, Zhou H, Qu LH. ChIPBase: a database for decoding the transcriptional regulation of long non-coding RNA and microRNA genes from ChIP-Seq data. Nucleic Acids Res. 2013 Jan;41(Database issue):D177-87.
+
+##ChIPBase project, hg38, the statistics of transcription factors that bound around HLA-DRB5(ENSG00000198502) gene
+##Regulatory domain is [-1kb, 1kb] (motif: Y)
+##The number column below is corresponding to the motif status
+
+Transcription factor	Synonyms	Official Full Name	Number of samples found (upstream)	Number of samples found (downstream)	Number of binding sites contain motif (upstream)	Number of binding sites contain motif (downstream)
+AR	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ATF2	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+CEBPB	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	3	0	4
+CEBPD	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+DPF1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+EGR1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+EGR2	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+EGR3	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	2
+ELF1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ELF3	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+EOMES	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+EP300	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	2	0	2
+ESR1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	15	0	15
+ESR1_PCDH11X	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ESR1_pS118	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	2	0	2
+ETV6	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+FOXA1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	3	0	4
+GATA1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+GATA3	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	2
+GRHL2	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	6	0	14
+GTF3C2	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+HDAC1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	2
+HIF1A	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	2
+LMNB1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+MAFF	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+MAFK	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+MAZ	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+MYOG	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+NCOA2	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+NFKB1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+NFYB	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+NKX3-1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+NR2F1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+NR2F2	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+NRIP1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	2	0	3
+PKNOX1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+POLR2A	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	4	0	4
+POU5F1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+REPIN1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+RFX5	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	6	0	6
+SMARCA4	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	2	0	8
+SP1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+SPI1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	11	0	15
+T	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+TCF7L2	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+TFAP2A	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+TOP1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	2
+USF1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+VDR	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+YY1AP1	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	3	0	3
+ZBTB26	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	2
+ZFHX2	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ZFX	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	2	0	3
+ZIM3	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ZNF143	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ZNF18	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ZNF217	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ZNF284	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ZNF316	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ZNF384	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	2
+ZNF770	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
+ZSCAN4	HLA-DRB5*	major histocompatibility complex, class II, DR beta 5	0	1	0	1
